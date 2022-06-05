@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAO4OiO7uAADsu+t3xusOwExEuy5mvg7AREBE7nLoy7xERETrYsjLTERERORizMRMREBE5HLsxEtERETkcujES0BERORy6ORLRERE5GLs5EtERETkYuzkuwREROtyzOSwRARE7mLo5LBLRLQuxr4OAOxL63bM6w4AAOwOiO7uAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "smallBurger"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
